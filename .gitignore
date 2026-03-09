@@ -1,0 +1,5 @@
+digit_env/
+digit_env_old/
+__pycache__/
+*.pyc
+*.h5
